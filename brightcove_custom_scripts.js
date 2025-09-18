@@ -159,7 +159,7 @@ function updateMetadataOnPage() {
             // create the additional line of text below the buttons
             let infoDiv = document.createElement('div');
             infoDiv.id = 'full-distro-info';
-            infoDiv.innerText = "Carnegie Hall+ is available on the Apple TV app, Prime Video Channels, Spectrum, Xfinity, Xumo, Verizon Fios, Cox, DISH, Sling TV, Astound, and with a Carnegie Hall Membership at the Supporter level and above.";
+            infoDiv.innerText = "Carnegie Hall+ is available on the Apple TV app, Prime Video Channels, Spectrum, Xfinity, Xumo, Verizon Fios, Cox, DISH, Sling TV, and with a Carnegie Hall Membership at the Supporter level and above.";
             infoDiv.style = 'width: 100%; text-align: left; margin-top: 8px;';
 
             // append that text line right after the buttons
